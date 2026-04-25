@@ -1,4 +1,4 @@
-# ¡Noot Noot! 👋 Soy [Tu Nombre], aspirante a Dev.
+# ¡Noot Noot! 👋 Soy [NootNootdiv], aspirante a Dev.
 
 Bienvenido/a a mi perfil de GitHub. No soy ingeniero ni tengo miles de seguidores en redes, pero tengo **muchísimas ganas de aprender** y construir cosas geniales.
 
@@ -28,7 +28,7 @@ Aquí están las herramientas con las que estoy lidiando y las que quiero domina
 
 Si quieres compartir un consejo, darme feedback sobre mis repos o simplemente saludar, puedes escribirme por email.
 
-* 📧 **Email:** [tuemail@ejemplo.com]
+* 📧 **Email:** [landev0716@gmail.com]
 
 *(¡Prometo responder, aunque sea para dar las gracias!)*
 
