@@ -1,71 +1,53 @@
 <div align="center">
 
-# 👋 Hola, soy Nott
+# Nott
 
-### 💻 Desarrollador Frontend | 📱 Técnico en reparación de celulares | 🎓 Estudiante de Programación
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil.;Desarrollador+Frontend.;Siempre+aprendiendo+algo+nuevo." />
+Desarrollador Frontend · Técnico en reparación de celulares
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy un desarrollador frontend y estudiante de programación de Argentina.
+Soy estudiante de programación y trabajo como técnico en reparación de celulares.
 
-Además de desarrollar sitios web, trabajo como técnico especializado en reparación de celulares, donde todos los días resuelvo problemas reales de hardware y software.
+Me interesa desarrollar interfaces limpias, crear herramientas que resuelvan problemas reales y seguir mejorando mis conocimientos en desarrollo web.
 
-Actualmente sigo aprendiendo nuevas tecnologías para crear aplicaciones modernas y mejorar mis habilidades tanto en frontend como en backend.
+Actualmente estoy enfocado en HTML, CSS y JavaScript, mientras aprendo Python para ampliar mis proyectos.
 
 ---
 
-# 🚀 Tecnologías
+## Tecnologías
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux"/>
-
-</div>
-
----
-
-# 📂 Proyectos principales
-
-📱 **Sistema de Gestión para Reparación de Celulares**
-
-Una aplicación para administrar clientes, equipos, presupuestos y reparaciones.
-
-🌐 **Chirino Tech**
-
-Sitio web de mi negocio dedicado a la reparación de celulares y soporte técnico.
+</p>
 
 ---
 
-# 📊 Estadísticas
+## Proyectos
 
-<div align="center">
+### 📱 Sistema de gestión para reparaciones
+Aplicación para administrar clientes, equipos, presupuestos y órdenes de trabajo.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=upon-X&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upon-X&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+### 🌐 Chirino Tech
+Sitio web desarrollado para mi emprendimiento de reparación de celulares.
 
 ---
 
-# 🎯 Objetivos
+## GitHub
 
-- Aprender React.
-- Aprender Backend con Python.
-- Crear aplicaciones útiles para técnicos.
-- Publicar proyectos Open Source.
-- Seguir creciendo como desarrollador.
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=upon-X&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upon-X&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Gracias por visitar mi perfil.
+**Villa María, Córdoba · Argentina**
 
 </div>
