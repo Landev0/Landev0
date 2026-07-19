@@ -2,7 +2,7 @@
 
 # Nott
 
-Desarrollador Frontend · Técnico en reparación de celulares
+### Desarrollador Frontend · Técnico en reparación de celulares
 
 </div>
 
@@ -10,11 +10,11 @@ Desarrollador Frontend · Técnico en reparación de celulares
 
 ## Sobre mí
 
-Soy estudiante de programación y trabajo como técnico en reparación de celulares.
+Hola, soy Nott.
 
-Me interesa desarrollar interfaces limpias, crear herramientas que resuelvan problemas reales y seguir mejorando mis conocimientos en desarrollo web.
+Estudio programación y me dedico a la reparación de celulares. Me gusta desarrollar sitios web con un diseño limpio y seguir mejorando en cada proyecto.
 
-Actualmente estoy enfocado en HTML, CSS y JavaScript, mientras aprendo Python para ampliar mis proyectos.
+Actualmente trabajo con HTML, CSS y JavaScript, mientras doy mis primeros pasos en Python.
 
 ---
 
@@ -28,26 +28,14 @@ Actualmente estoy enfocado en HTML, CSS y JavaScript, mientras aprendo Python pa
 
 ## Proyectos
 
-### 📱 Sistema de gestión para reparaciones
-Aplicación para administrar clientes, equipos, presupuestos y órdenes de trabajo.
-
-### 🌐 Chirino Tech
-Sitio web desarrollado para mi emprendimiento de reparación de celulares.
+- **Chirino Tech** — Sitio web de mi emprendimiento.
+- **Sistema de gestión para reparaciones** — Aplicación para administrar órdenes de trabajo.
 
 ---
 
 ## GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=upon-X&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upon-X&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=github_dark&show_icons=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-<div align="center">
-
-**Villa María, Córdoba · Argentina**
-
-</div>
