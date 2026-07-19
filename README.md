@@ -32,10 +32,3 @@ Actualmente trabajo con HTML, CSS y JavaScript, mientras doy mis primeros pasos 
 - **Sistema de gestión para reparaciones** — Aplicación para administrar órdenes de trabajo.
 
 ---
-
-## GitHub
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=github_dark&show_icons=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
